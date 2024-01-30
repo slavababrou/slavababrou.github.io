@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="15"></circle>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F8F8F8" xlink:href="#path-1"></use>
+            <path d="M6.57010754,27.4089069 C8.97257878,29.044178 11.8746673,30 15,30 C18.2670317,30 21.2901171,28.9555414 23.7535615,27.1823187 C22.2800264,23.77162 20.3799121,21.2442198 18.2385714,20 C17.2866667,20.5087937 16.2709524,20.7975079 15.21,20.7975079 C14.1490476,20.7975079 13.1333333,20.5087937 12.1814286,20 C9.99331731,21.2719693 8.05684709,23.8838772 6.57010754,27.4089069 Z" id="Combined-Shape" fill="#AFAFAF"></path>
+        </g>
+    </g>
+</svg>

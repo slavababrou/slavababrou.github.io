@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fcbe0af.css",
+    "main.js": "/static/js/main.57a4c6c3.js",
+    "static/media/Упорядоченный.svg": "/static/media/Упорядоченный.35bb1e6b540b0587c6fa.svg",
+    "static/media/УбратьСсылку.svg": "/static/media/УбратьСсылку.57033ef00105c16f331c.svg",
+    "static/media/Зачеркивание.svg": "/static/media/Зачеркивание.adcf580944942a98701c.svg",
+    "static/media/a9z.svg": "/static/media/a9z.b6c62338c3932282e829.svg",
+    "static/media/Неупорядоченный.svg": "/static/media/Неупорядоченный.69d77f0349debdd3b6a2.svg",
+    "static/media/Ссылка.svg": "/static/media/Ссылка.00505c2cca1ad73bf6d5.svg",
+    "static/media/map.svg": "/static/media/map.9fb4c9ae686f2b596b27.svg",
+    "static/media/жирный.svg": "/static/media/жирный.5eae2faa6560c5beae8e.svg",
+    "static/media/audio.svg": "/static/media/audio.136135fb02cf1dfabd40.svg",
+    "static/media/emoji.svg": "/static/media/emoji.0a9b4a9f0aa766cc893b.svg",
+    "static/media/picture.svg": "/static/media/picture.560267a9d17c74b8c44a.svg",
+    "static/media/avatar.svg": "/static/media/avatar.68386a24299481945544.svg",
+    "static/media/подчеркивание.svg": "/static/media/подчеркивание.828e26c34d9db983b772.svg",
+    "index.html": "/index.html",
+    "static/media/more.svg": "/static/media/more.e51934c809eb3b7e2cb7.svg",
+    "static/media/close-svgrepo-com.svg": "/static/media/close-svgrepo-com.1058b5120196ba2ce63d.svg",
+    "static/media/error.svg": "/static/media/error.63f9b23aeb58d91b57a0.svg",
+    "static/media/cursive.svg": "/static/media/cursive.99e9d34afb207540c261.svg",
+    "static/media/no-img.svg": "/static/media/no-img.5001804427ad44934c9b.svg",
+    "main.5fcbe0af.css.map": "/static/css/main.5fcbe0af.css.map",
+    "main.57a4c6c3.js.map": "/static/js/main.57a4c6c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcbe0af.css",
+    "static/js/main.57a4c6c3.js"
+  ]
+}
